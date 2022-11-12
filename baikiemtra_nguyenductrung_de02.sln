@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cau1", "baikiemtra_nguyenductrung_de02\cau1.csproj", "{9C12659E-C3C2-4B54-8223-6FB7A2653C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cau2", "cau2\cau2.csproj", "{9B57AF7C-2D39-4BA7-BA0A-03857D82B0F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C12659E-C3C2-4B54-8223-6FB7A2653C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C12659E-C3C2-4B54-8223-6FB7A2653C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C12659E-C3C2-4B54-8223-6FB7A2653C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C12659E-C3C2-4B54-8223-6FB7A2653C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B57AF7C-2D39-4BA7-BA0A-03857D82B0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B57AF7C-2D39-4BA7-BA0A-03857D82B0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B57AF7C-2D39-4BA7-BA0A-03857D82B0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B57AF7C-2D39-4BA7-BA0A-03857D82B0F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E005103-1FDE-40FE-8189-2B5AB2D96B7F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\bin\Debug\cau2.exe.config
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\bin\Debug\cau2.exe
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\bin\Debug\cau2.pdb
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.csproj.AssemblyReference.cache
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.csproj.SuggestedBindingRedirects.cache
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.Form1.resources
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.Form2.resources
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.Form3.resources
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.Properties.Resources.resources
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.csproj.GenerateResource.cache
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.csproj.CoreCompileInputs.cache
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.exe
+D:\lập trình c\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.pdb
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\bin\Debug\cau2.exe.config
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\bin\Debug\cau2.exe
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\bin\Debug\cau2.pdb
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.csproj.AssemblyReference.cache
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.Form1.resources
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.Form2.resources
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.Form3.resources
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.Properties.Resources.resources
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.csproj.GenerateResource.cache
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.csproj.CoreCompileInputs.cache
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.exe
+D:\baikiemtra_nguyenductrung_de02\baikiemtra_nguyenductrung_de02\cau2\obj\Debug\cau2.pdb
